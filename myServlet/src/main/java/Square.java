@@ -3,6 +3,7 @@ public class Square {
         System.out.println("This is square");
         System.out.println("SOme troubles...");
         System.out.println("Hi");
+        System.out.println("b");
         return a*b;
     }
 }
